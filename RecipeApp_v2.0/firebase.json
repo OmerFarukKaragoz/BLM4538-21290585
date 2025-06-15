@@ -1,0 +1,10 @@
+{
+  "react-native": {
+    "android": {
+      "app_data_collection_default_enabled": true
+    },
+    "ios": {
+      "app_data_collection_default_enabled": true
+    }
+  }
+} 
