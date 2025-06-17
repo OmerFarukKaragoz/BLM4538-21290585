@@ -1,6 +1,7 @@
 #BLM4538-21290585-Ömer Faruk Karagöz
 
 Bu projemde api ve firebase kullanarak bir tarif uygulaması yaptım. Kaynak kodları, doküman, video, apk dosyası yukarıda bulunmaktadır.
+Uygulamayı geliştirmek için yazdığım kodlar RecipeApp_v2.0 klasörünün altındaki src klasöründe bulunmaktadır.
 
 Video Linki: https://youtube.com/shorts/rrC-isTZHzs
 
